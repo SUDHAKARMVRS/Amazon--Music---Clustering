@@ -80,19 +80,6 @@ After running, open 👉 `http://localhost:8501` in your browser.
 
 ---
 
-## 📸 Dashboard Preview  
-
-### 🔹 Cluster Distribution  
-![Cluster Distribution](images/cluster_distribution.png)  
-
-### 🔹 PCA Scatter Plot  
-![PCA Visualization](images/pca_plot.png)  
-
-### 🔹 Cluster Profiles  
-![Cluster Profiles](images/cluster_profiles.png)  
-
----
-
 ## 📎 Requirements  
 See `require.txt`:  
 ```
@@ -101,14 +88,6 @@ streamlit
 matplotlib
 seaborn
 numpy
-```
-
----
-
-## ⬇️ Download  
-📥 [Download the dataset](single_genre_artists.csv)  
-📥 [Download the Streamlit app](stream.py)  
-
 ---
 
 ## 🧑‍💻 Author  
