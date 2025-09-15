@@ -112,5 +112,7 @@ numpy
 ---
 
 ## 🧑‍💻 Author  
-Project built for **Data Science & Visualization practice** using  
+Sudhakar.M
+
+## Used Tools
 🐍 Python | 🚀 Streamlit | 🤖 Scikit-learn | 📊 Pandas & Matplotlib  
