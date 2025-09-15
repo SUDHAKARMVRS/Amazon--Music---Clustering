@@ -88,10 +88,10 @@ streamlit
 matplotlib
 seaborn
 numpy
+```
 ---
-
 ## 🧑‍💻 Author  
 Sudhakar.M
 
-## Used Tools
+## 🛠️ Used Tools
 🐍 Python | 🚀 Streamlit | 🤖 Scikit-learn | 📊 Pandas & Matplotlib  
