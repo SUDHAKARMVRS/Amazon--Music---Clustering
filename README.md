@@ -91,7 +91,7 @@ numpy
 ```
 ---
 ## 🧑‍💻 Author  
-Sudhakar.M
-
+###Sudhakar M
+📧sudhakar.mvrs@gmail.com| 🌐 (https://www.linkedin.com/in/sudhakar-m-657ba787/)
 ## 🛠️ Used Tools
 🐍 Python | 🚀 Streamlit | 🤖 Scikit-learn | 📊 Pandas & Matplotlib  
